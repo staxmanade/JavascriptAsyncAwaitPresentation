@@ -1,0 +1,520 @@
+{
+    "id": 1871,
+    "url": "http://www.tvmaze.com/shows/1871/mr-robot",
+    "name": "Mr. Robot",
+    "type": "Scripted",
+    "language": "English",
+    "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+    ],
+    "status": "Running",
+    "runtime": 60,
+    "premiered": "2015-06-24",
+    "schedule": {
+        "time": "22:00",
+        "days": [
+            "Wednesday"
+        ]
+    },
+    "rating": {
+        "average": 8.7
+    },
+    "weight": 3,
+    "network": {
+        "id": 30,
+        "name": "USA Network",
+        "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+        }
+    },
+    "webChannel": null,
+    "externals": {
+        "tvrage": 42422,
+        "thetvdb": 289590,
+        "imdb": "tt4158110"
+    },
+    "image": {
+        "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/81/204118.jpg",
+        "original": "http://static.tvmaze.com/uploads/images/original_untouched/81/204118.jpg"
+    },
+    "summary": "<p><strong>Mr. Robot</strong> follows Elliot, a young programmer who works as a cyber-security engineer by day and as a vigilante hacker by night. Elliot finds himself at a crossroads when the mysterious leader of an underground hacker group recruits him to destroy the firm he is paid to protect. Compelled by his personal beliefs, Elliot struggles to resist the chance to take down the multinational CEOs he believes are running (and ruining) the world. </p>",
+    "updated": 1482517006,
+    "_links": {
+        "self": {
+            "href": "http://api.tvmaze.com/shows/1871"
+        },
+        "previousepisode": {
+            "href": "http://api.tvmaze.com/episodes/910146"
+        }
+    },
+    "_embedded": {
+        "episodes": [
+            {
+                "id": 157154,
+                "url": "http://www.tvmaze.com/episodes/157154/mr-robot-1x01-eps10hellofriendmov",
+                "name": "eps1.0_hellofriend.mov",
+                "season": 1,
+                "number": 1,
+                "airdate": "2015-06-24",
+                "airtime": "22:00",
+                "airstamp": "2015-06-24T22:00:00-04:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/11/28280.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/11/28280.jpg"
+                },
+                "summary": "<p>In MR. ROBOT, Elliot, a cyber-security engineer by day and vigilante hacker by night, is recruited by a mysterious underground group to destroy the firm he's paid to protect. Elliot must decide how far he'll go to expose the forces he believes are running (and ruining) the world.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/157154"
+                    }
+                }
+            },
+            {
+                "id": 167379,
+                "url": "http://www.tvmaze.com/episodes/167379/mr-robot-1x02-eps11ones-and-zer0esmpeg",
+                "name": "eps1.1_ones-and-zer0es.mpeg",
+                "season": 1,
+                "number": 2,
+                "airdate": "2015-07-01",
+                "airtime": "22:00",
+                "airstamp": "2015-07-01T22:00:00-04:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/12/31833.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/31833.jpg"
+                },
+                "summary": "<p>Tyrell Wellick, now Evil Corp's acting CTO since Elliot helped get Terry Colby arrested, makes Elliot an offer he can (and does) refuse: a position as Evil Corp's head of Cyber Security and a big bank account to match. By saying no, has Elliot made himself a mark for Wellick?</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/167379"
+                    }
+                }
+            },
+            {
+                "id": 167380,
+                "url": "http://www.tvmaze.com/episodes/167380/mr-robot-1x03-eps12d3bugmkv",
+                "name": "eps1.2_d3bug.mkv",
+                "season": 1,
+                "number": 3,
+                "airdate": "2015-07-08",
+                "airtime": "22:00",
+                "airstamp": "2015-07-08T22:00:00-04:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/12/32398.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/12/32398.jpg"
+                },
+                "summary": "<p>After being shoved off the railing in Coney Island by Mr. Robot, Elliot wakes up in a hospital room, badly banged up. Krista, his psychiatrist, is inclined to send him to rehab unless he's willing to be regularly drug tested. Elliot complies, knowing that he can easily change the hospital records for the tests since he hacked their system long ago.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/167380"
+                    }
+                }
+            },
+            {
+                "id": 167381,
+                "url": "http://www.tvmaze.com/episodes/167381/mr-robot-1x04-eps13da3m0nsmp4",
+                "name": "eps1.3_da3m0ns.mp4",
+                "season": 1,
+                "number": 4,
+                "airdate": "2015-07-15",
+                "airtime": "22:00",
+                "airstamp": "2015-07-15T22:00:00-04:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/13/33433.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/33433.jpg"
+                },
+                "summary": "<p>At fsociety, Elliot lays out his plan to hack Steel Mountain's climate control system and raise the heat high enough to melt all the tapes that record the data. Romero points out the plan's many flaws but when Elliot remembers that they only have a few days left before Evil Corp switches over to their new redundant security protocols based on what Tyrell Wellick told him, they reluctantly agree it's now or never.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/167381"
+                    }
+                }
+            },
+            {
+                "id": 167382,
+                "url": "http://www.tvmaze.com/episodes/167382/mr-robot-1x05-eps143xpl0itswmv",
+                "name": "eps1.4_3xpl0its.wmv",
+                "season": 1,
+                "number": 5,
+                "airdate": "2015-07-22",
+                "airtime": "22:00",
+                "airstamp": "2015-07-22T22:00:00-04:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/13/34376.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/34376.jpg"
+                },
+                "summary": "<p>Fsociety attempts to penetrate Steel Mountain, the most secure data facility in America.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/167382"
+                    }
+                }
+            },
+            {
+                "id": 167383,
+                "url": "http://www.tvmaze.com/episodes/167383/mr-robot-1x06-eps15br4ve-trave1erasf",
+                "name": "eps1.5_br4ve-trave1er.asf",
+                "season": 1,
+                "number": 6,
+                "airdate": "2015-07-29",
+                "airtime": "22:00",
+                "airstamp": "2015-07-29T22:00:00-04:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/13/34921.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/13/34921.jpg"
+                },
+                "summary": "<p>Elliot attempts to hack Vera out of jail in order to save someone he cares about; Tyrell's \"game\" gets crazy; and Angela digs deeper into her mother's death.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/167383"
+                    }
+                }
+            },
+            {
+                "id": 167384,
+                "url": "http://www.tvmaze.com/episodes/167384/mr-robot-1x07-eps16v1ew-s0urceflv",
+                "name": "eps1.6_v1ew-s0urce.flv",
+                "season": 1,
+                "number": 7,
+                "airdate": "2015-08-05",
+                "airtime": "22:00",
+                "airstamp": "2015-08-05T22:00:00-04:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/14/35974.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/14/35974.jpg"
+                },
+                "summary": "<p>Elliott goes missing; Mr. Robot tries to pull fsociety back together; Angela goes head-to-head with an old nemesis.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/167384"
+                    }
+                }
+            },
+            {
+                "id": 167385,
+                "url": "http://www.tvmaze.com/episodes/167385/mr-robot-1x08-eps17wh1ter0sem4v",
+                "name": "eps1.7_wh1ter0se.m4v",
+                "season": 1,
+                "number": 8,
+                "airdate": "2015-08-12",
+                "airtime": "21:00",
+                "airstamp": "2015-08-12T21:00:00-04:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/14/36957.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/14/36957.jpg"
+                },
+                "summary": "<p>Allsafe is controlled; the Dark Army is ready to meet Elliot; and Tyrell and Joanna's plan goes into effect.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/167385"
+                    }
+                }
+            },
+            {
+                "id": 167386,
+                "url": "http://www.tvmaze.com/episodes/167386/mr-robot-1x09-eps18m1rr0r1ngqt",
+                "name": "eps1.8_m1rr0r1ng.qt",
+                "season": 1,
+                "number": 9,
+                "airdate": "2015-08-19",
+                "airtime": "21:00",
+                "airstamp": "2015-08-19T21:00:00-04:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/38763.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/38763.jpg"
+                },
+                "summary": "<p>The Evil Corp hack is threatened by a mystery man from Elliot's past.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/167386"
+                    }
+                }
+            },
+            {
+                "id": 167387,
+                "url": "http://www.tvmaze.com/episodes/167387/mr-robot-1x10-eps19zer0-dayavi",
+                "name": "eps1.9_zer0-day.avi",
+                "season": 1,
+                "number": 10,
+                "airdate": "2015-09-02",
+                "airtime": "22:00",
+                "airstamp": "2015-09-02T22:00:00-04:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/16/41566.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/16/41566.jpg"
+                },
+                "summary": "<p>In the Season 1 finale, Mr. Robot and Tyrell are MIA; and a past hack haunts Elliot.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/167387"
+                    }
+                }
+            },
+            {
+                "id": 733139,
+                "url": "http://www.tvmaze.com/episodes/733139/mr-robot-2x01-eps20unm4sk-pt1tc",
+                "name": "eps2.0_unm4sk-pt1.tc",
+                "season": 2,
+                "number": 1,
+                "airdate": "2016-07-13",
+                "airtime": "22:00",
+                "airstamp": "2016-07-13T22:00:00-04:00",
+                "runtime": 46,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/67/168565.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/67/168565.jpg"
+                },
+                "summary": "<p>one month later and omfg, five/nine changed the world. elliot in seclusion. darlene takes the lead. fsociety delivers malicious payload. TANGO DOWN? tbc.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/733139"
+                    }
+                }
+            },
+            {
+                "id": 830870,
+                "url": "http://www.tvmaze.com/episodes/830870/mr-robot-2x02-eps20unm4sk-pt2tc",
+                "name": "eps2.0_unm4sk-pt2.tc",
+                "season": 2,
+                "number": 2,
+                "airdate": "2016-07-13",
+                "airtime": "22:46",
+                "airstamp": "2016-07-13T22:46:00-04:00",
+                "runtime": 46,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/67/168564.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/67/168564.jpg"
+                },
+                "summary": "<p>angela happy at evil corp. tyrell MIA and joanna has a new bf? wtf? dom leads fbi investigation into five/nine. elliot demands answers from mr. robot.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/830870"
+                    }
+                }
+            },
+            {
+                "id": 830871,
+                "url": "http://www.tvmaze.com/episodes/830871/mr-robot-2x03-eps21k3rnel-pan1cksd",
+                "name": "eps2.1_k3rnel-pan1c.ksd",
+                "season": 2,
+                "number": 3,
+                "airdate": "2016-07-20",
+                "airtime": "22:00",
+                "airstamp": "2016-07-20T22:00:00-04:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/170476.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/170476.jpg"
+                },
+                "summary": "<p>Elliot vows to beat Mr. Robot but it ain't easy, smh. Angela sees behind the scenes at Evil Corp. Sh*t hits fan with fsociety.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/830871"
+                    }
+                }
+            },
+            {
+                "id": 830872,
+                "url": "http://www.tvmaze.com/episodes/830872/mr-robot-2x04-eps22init1asec",
+                "name": "eps2.2_init1.asec",
+                "season": 2,
+                "number": 4,
+                "airdate": "2016-07-27",
+                "airtime": "22:00",
+                "airstamp": "2016-07-27T22:00:00-04:00",
+                "runtime": 60,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/172359.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/172359.jpg"
+                },
+                "summary": "<p>Elliot friends Ray, who he hopes can help delete Mr. Robot; Dom makes a major discovery; and Darlene questions whether the FBI or Dark Army is the bigger threat.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/830872"
+                    }
+                }
+            },
+            {
+                "id": 830873,
+                "url": "http://www.tvmaze.com/episodes/830873/mr-robot-2x05-eps23logic-b0mbhc",
+                "name": "eps2.3_logic-b0mb.hc",
+                "season": 2,
+                "number": 5,
+                "airdate": "2016-08-03",
+                "airtime": "22:01",
+                "airstamp": "2016-08-03T22:01:00-04:00",
+                "runtime": 72,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/69/174538.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/69/174538.jpg"
+                },
+                "summary": "<p>Elliot can't quit the game; Dom and the FBI head to China to investigate 5/9; Joanna is haunted; and Darlene calls on Angela for help.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/830873"
+                    }
+                }
+            },
+            {
+                "id": 830874,
+                "url": "http://www.tvmaze.com/episodes/830874/mr-robot-2x06-eps24m4ster-s1aveaes",
+                "name": "eps2.4_m4ster-s1ave.aes",
+                "season": 2,
+                "number": 6,
+                "airdate": "2016-08-10",
+                "airtime": "22:01",
+                "airstamp": "2016-08-10T22:01:00-04:00",
+                "runtime": 70,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/70/176488.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/70/176488.jpg"
+                },
+                "summary": "<p>Mr. Robot tries to show Elliot that he can be useful; and Darlene and Angela's plan doesn't go as hoped.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/830874"
+                    }
+                }
+            },
+            {
+                "id": 830875,
+                "url": "http://www.tvmaze.com/episodes/830875/mr-robot-2x07-eps25h4ndshakesme",
+                "name": "eps2.5_h4ndshake.sme",
+                "season": 2,
+                "number": 7,
+                "airdate": "2016-08-17",
+                "airtime": "22:01",
+                "airstamp": "2016-08-17T22:01:00-04:00",
+                "runtime": 70,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/71/178952.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/71/178952.jpg"
+                },
+                "summary": "<p>Mr. Robot and Elliot try to make nice; and Joanna is given an ultimatum.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/830875"
+                    }
+                }
+            },
+            {
+                "id": 830876,
+                "url": "http://www.tvmaze.com/episodes/830876/mr-robot-2x08-eps26succ3ss0rp12",
+                "name": "eps2.6_succ3ss0r.p12",
+                "season": 2,
+                "number": 8,
+                "airdate": "2016-08-24",
+                "airtime": "22:00",
+                "airstamp": "2016-08-24T22:00:00-04:00",
+                "runtime": 67,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/71/178694.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/71/178694.jpg"
+                },
+                "summary": "<p>A video is released by fsociety; Darlene decides to act on an old desire. </p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/830876"
+                    }
+                }
+            },
+            {
+                "id": 830877,
+                "url": "http://www.tvmaze.com/episodes/830877/mr-robot-2x09-eps27init5fve",
+                "name": "eps2.7_init5.fve",
+                "season": 2,
+                "number": 9,
+                "airdate": "2016-08-31",
+                "airtime": "22:00",
+                "airstamp": "2016-08-31T22:00:00-04:00",
+                "runtime": 65,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/73/182686.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/73/182686.jpg"
+                },
+                "summary": "<p>Angela wants more from E Corp than they want to give; and Elliot and Darlene seek answers.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/830877"
+                    }
+                }
+            },
+            {
+                "id": 830878,
+                "url": "http://www.tvmaze.com/episodes/830878/mr-robot-2x10-eps28h1dden-pr0cessaxx",
+                "name": "eps2.8_h1dden-pr0cess.axx",
+                "season": 2,
+                "number": 10,
+                "airdate": "2016-09-07",
+                "airtime": "22:00",
+                "airstamp": "2016-09-07T22:00:00-04:00",
+                "runtime": 65,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/73/184601.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/73/184601.jpg"
+                },
+                "summary": "<p>Elliot wonders if Mr. Robot has been lying to him; Darlene attempts to do the right thing; Dom and the FBI get closer. </p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/830878"
+                    }
+                }
+            },
+            {
+                "id": 861461,
+                "url": "http://www.tvmaze.com/episodes/861461/mr-robot-2x11-eps29pyth0n-pt1p7z",
+                "name": "eps2.9_pyth0n-pt1.p7z",
+                "season": 2,
+                "number": 11,
+                "airdate": "2016-09-14",
+                "airtime": "22:00",
+                "airstamp": "2016-09-14T22:00:00-04:00",
+                "runtime": 70,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/74/186947.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/74/186947.jpg"
+                },
+                "summary": "<p>Angela makes an unexpected acquaintance. Elliot does the same. Dom engages in an interesting ama.</p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/861461"
+                    }
+                }
+            },
+            {
+                "id": 910146,
+                "url": "http://www.tvmaze.com/episodes/910146/mr-robot-2x12-eps29pyth0n-pt2p7z",
+                "name": "eps2.9_pyth0n-pt2.p7z",
+                "season": 2,
+                "number": 12,
+                "airdate": "2016-09-21",
+                "airtime": "22:00",
+                "airstamp": "2016-09-21T22:00:00-04:00",
+                "runtime": 66,
+                "image": {
+                    "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/76/190198.jpg",
+                    "original": "http://static.tvmaze.com/uploads/images/original_untouched/76/190198.jpg"
+                },
+                "summary": "<p>Darlene realizes she is in too deep; an old friend reveals everything to Elliot. </p>",
+                "_links": {
+                    "self": {
+                        "href": "http://api.tvmaze.com/episodes/910146"
+                    }
+                }
+            }
+        ]
+    }
+}
