@@ -1,15 +1,3 @@
-# Today's assumptions
-
-Somewhat familiar with ES6 syntax
-
-- arrow functions `() => 'wat'`
-- string interpolation
-- Promise
-
-If you're confused on some syntax stop
-me and let's quickly review.
-
-
 # Talk setup
 
 Start sample nodejs server
@@ -21,6 +9,18 @@ npm start
 Open [jsbin](http://jsbin.com)
 
 Copy [index.html](server/public/index.html) into the `html` tab in jsbin.
+
+
+# Today's assumptions
+
+Somewhat familiar with ES6 syntax
+
+- arrow functions `() => 'wat'`
+- string interpolation
+- Promise
+
+If you're confused on some syntax stop
+me and let's quickly review.
 
 
 ## What is async/await
@@ -346,7 +346,7 @@ f3();
 
 
 
-See how they implement it in TypeScript
+How TypeScript supports this syntax after transpiling.
 
 ```javascript
 var __awaiter = (this && this.__awaiter) || function(thisArg, _arguments, P, generator) {
@@ -487,20 +487,28 @@ TIP: show what TypeScript does with the above at the TypeScript playground
 
 
 ```javascript
-
+// noprotect
+async function stall(time) {
+    return new Promise(resolve => {
+        setTimeout(function (){
+            resolve();
+        }, time || 1000);
+    });
+}
 async function getMrRobotWithAsync1() {
-  let fetchJson = async url => {
-      let response = await fetch(url);
-      let json = await response.json();
+  const fetchJson = async url => {
+      const response = await fetch(url);
+      //await stall(300);
+      const json = await response.json();
       return json;
   };
 
-  let show = await fetchJson(mrRobotShowUrl);
+  const show = await fetchJson(mrRobotShowUrl);
 
-  let episodes = [];
+  const episodes = [];
   for(let i = 0; i < show.episodes.length; i++) {
-      let episodeId = show.episodes[i];
-      let episode = await fetchJson(`${mrRobotEpisodeUrl}/${episodeId}`);
+      const episodeId = show.episodes[i];
+      const episode = await fetchJson(`${mrRobotEpisodeUrl}/${episodeId}`);
       episodes.push(episode);
   }
   show.episodes = episodes;
@@ -508,11 +516,16 @@ async function getMrRobotWithAsync1() {
 }
 
 async function getMrRobotWithAsync2() {
-  let fetchJson = url => fetch(url).then(res => res.json());
-  var show = await fetchJson(mrRobotShowUrl);
-  let episodesPromiseList = show.episodes.map(async episodeId => {
-      let res = fetchJson(`${mrRobotEpisodeUrl}/${episodeId}`);
-      return res;
+  const fetchJson = async url => {
+      const response = await fetch(url);
+      //await stall(300);
+      const json = await response.json();
+      return json;
+  };
+  const show = await fetchJson(mrRobotShowUrl);
+  const episodesPromiseList = show.episodes.map(async episodeId => {
+      const fetchPromise = fetchJson(`${mrRobotEpisodeUrl}/${episodeId}`);
+      return fetchPromise;
   });
   show.episodes = await Promise.all(episodesPromiseList);
   return show;
